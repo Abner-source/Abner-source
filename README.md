@@ -17,6 +17,17 @@
 - [View Repository →](https://github.com/Abner-source/MesBot)
 
 ---
+🎙️ VoxCart — AI Voice Agent for E-commerce Support
+
+> Browser-based voice agent built for real-time customer support through natural conversation
+
+
+-Built with Google Gemini 2.0 Flash + FastAPI + Web Speech API + gTTS
+-Features: order lookups, order cancellations, product search, multi-turn conversation state
+-End-to-end voice pipeline from browser microphone input → LLM reasoning with function calling → audio response
+-[View Repository →](https://github.com/Abner-source/MesBot)
+
+---
 
 ### 🍽️ FoodSnap AI — Food Recognition Tool
 > Detects 100+ food items from images and returns caloric info instantly
@@ -25,16 +36,6 @@
 - Backend-ready with **SQLAlchemy** for calorie database integration
 - Built end-to-end during a hackathon
 - [View Repository →](https://github.com/Abner-source/foodsnap-ai)
-
----
-
-### 🔍 Fake Logo Detector
-> Classifies brand logos as genuine or counterfeit using object detection
-
-- Custom **YOLOv8** pipeline trained via Roboflow
-- **Flask** API backend + **OpenCV** bounding box rendering
-- 70% detection accuracy on real-world logo samples
-- [View Repository →](https://github.com/Abner-source/Fake-Logo-Detector-using-YOLOv8-)
 
 ---
 
