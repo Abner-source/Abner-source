@@ -7,6 +7,15 @@
 
 ## 🚀 Projects
 
+### ⚽ WC 2026 Analyst — AI World Cup Intelligence
+> Complete analyst's view for all 48 nations at the 2026 FIFA World Cup — every team, every story, one place.
+- Win probabilities blended from **Goldman Sachs · Opta · Kalshi · FIFA Rankings · UEFA Coefficients · Bookmaker Consensus**
+- Features: tactical breakdowns, key players by form, World Cup history, knockout predictions, group stage analysis, biggest threats
+- Live winner reveal simulation that loads every source, eliminates contenders, and lands on one definitive pick
+- [View Project →](https://github.com/Abner-source/worldcup-analyst)
+
+
+
 ### 🧠 MesBot — AI College Assistant
 > RAG-based AI assistant built for MES College of Engineering, serving 2000+ students, faculty & staff
 
@@ -27,13 +36,7 @@
 
 ---
 
-### 🍽️ FoodSnap — Food Recognition Tool
-> Detects 100+ food items from images and returns caloric info instantly
 
-- Custom-trained **YOLOv8** model with data augmentation across 100+ food classes
-- Integrated **SQLAlchemy** for automatic calorie lookups on each detection
-- Built end-to-end: dataset prep, model training, backend integration, result display
-- [View Repository →](https://github.com/Abner-source/foodsnap-ai)
 
 ---
 
