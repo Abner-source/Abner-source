@@ -12,7 +12,7 @@
 - Win probabilities blended from **Goldman Sachs · Opta · Kalshi · FIFA Rankings · UEFA Coefficients · Bookmaker Consensus**
 - Features: tactical breakdowns, key players by form, World Cup history, knockout predictions, group stage analysis, biggest threats
 - Live winner reveal simulation that loads every source, eliminates contenders, and lands on one definitive pick
-- [View Project →](https://github.com/Abner-source/worldcup-analyst)
+- [View Project →](https://github.com/Abner-source/World-cup-analyst.git)
 
 
 
